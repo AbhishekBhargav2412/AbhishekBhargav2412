@@ -35,9 +35,9 @@
 
 | &nbsp; | Project | What it does |
 |:---:|:---|:---|
-| 🧠 | **[Cogito](https://github.com/AbhishekBhargav2412)** | AI journaling app — real-time sentiment analysis, mood dashboard, crisis detection & CBT companion (Sage) |
-| 💻 | **[CodeTogether](https://github.com/AbhishekBhargav2412)** | Real-time collaborative editor — Monaco Engine + Socket.io + JWT-secured rooms |
-| 📦 | **[StockSense](https://github.com/AbhishekBhargav2412)** | Enterprise inventory platform — 3-tier RBAC, live Firestore sync, zero-polling updates |
+| 🧠 | AI journaling app — real-time sentiment analysis, mood dashboard, crisis detection & CBT companion (Sage) |
+| 💻 | Real-time collaborative editor — Monaco Engine + Socket.io + JWT-secured rooms |
+| 📦 | Enterprise inventory platform — 3-tier RBAC, live Firestore sync, zero-polling updates |
 
 </div>
 
