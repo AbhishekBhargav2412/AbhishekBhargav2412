@@ -33,7 +33,7 @@
 
 <div align="center">
 
-| &nbsp; | Project | What it does |
+| &nbsp; | Project
 |:---:|:---|:---|
 | 🧠 | AI journaling app — real-time sentiment analysis, mood dashboard, crisis detection & CBT companion (Sage) |
 | 💻 | Real-time collaborative editor — Monaco Engine + Socket.io + JWT-secured rooms |
