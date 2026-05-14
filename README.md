@@ -22,6 +22,7 @@
 - 🧠 Integrated **Gemini 2.0 Flash** for AI-powered journaling with CBT-guided responses
 - 🌐 Wired **14 custom Socket.io events** for live collaborative editing
 - 🔐 Engineered **3-tier RBAC** enforced at the Firestore security rules level
+- 🤖 Built a **RAG pipeline** over Indian Railway docs with zero hallucination on out-of-scope queries
 - 📍 Mysuru, India &nbsp;·&nbsp; 🎯 Actively seeking **SDE roles**
 - 📬 bhargavabhishek777@gmail.com
 
@@ -38,6 +39,8 @@
 | 🧠 | AI journaling app — real-time sentiment analysis, mood dashboard, crisis detection & CBT companion (Sage) |
 | 💻 | Real-time collaborative editor — Monaco Engine + Socket.io + JWT-secured rooms |
 | 📦 | Enterprise inventory platform — 3-tier RBAC, live Firestore sync, zero-polling updates |
+| 🚂 | Indian Railway RAG chatbot — LangChain + Gemini API + vector store, context-aware answers across 4 rule categories |
+| 📊 | StockSense — enterprise inventory management with Google OAuth, RBAC, and live Firestore onSnapshot listeners |
 
 </div>
 
@@ -61,6 +64,7 @@
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Backend & APIs**
 
@@ -76,12 +80,20 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
+**GenAI**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
@@ -117,7 +129,6 @@
 <br/>
 
 <div align="center">
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
